@@ -6,7 +6,6 @@ This project presents a **comprehensive exploration of classical Machine Learnin
 - **Fruit Dataset** (MDS and t-SNE)
 - **Zachary’s Karate Club Network** (Graph Analysis and Community Detection)
 
-The report was conducted as part of an academic course under the supervision of **Dr. Babak Khalaj and the Course Team (Sharif University of Technology)**.
 
 ---
 
